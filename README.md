@@ -18,3 +18,7 @@ As proximas atualizações do projeto terão como objetivo trazer as seguintes f
 
 * São necessarias as versões mais recentes de: python, pygame, matplotlib e pandas
 * Sistema operacional: Windows
+
+## Extras
+
+> Contem uma pasta "dados" com exemplos de tabelas para testes. Tais arquivos não são necessarios para o programa
